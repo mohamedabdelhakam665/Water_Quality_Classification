@@ -3,7 +3,7 @@
 
 ### Water Quality Classification
 
-Predicting drinking water potability using Machine Learning — built as a Data Mining course project at Egyptian Chinese University (ECU).
+Predicting drinking water potability using Machine Learning — built as a Data Mining course project .
 
 
 ### Project Overview
